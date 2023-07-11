@@ -8,6 +8,9 @@ Patients can:-
 - Log in to their respective accounts
 - View their profile information
 
+#### Emergency
+- This allows clients with no registered accounts to access services such as calling for emergency assistance/services/consultations
+  
 #### Doctor Registration and Login 
 Doctors can:- 
 - Create an account 
