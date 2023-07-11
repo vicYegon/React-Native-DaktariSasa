@@ -5,13 +5,13 @@ This is a telemedicine app that allows patients to schedule appointments with do
 #### Patient Registration and Login 
 Patients can:- 
 - Create an account 
-- Log in 
-- View their profile.
+- Log in to their respective accounts
+- View their profile information
 
 #### Doctor Registration and Login 
 Doctors can:- 
 - Create an account 
-- Log in
+- Log in to your respective account.
 - View their profile.
 
 #### Appointment Scheduling 
@@ -22,24 +22,27 @@ Patients can:-
 
 #### Video Consultation 
 Patients can have a video consultation with a doctor at the scheduled time of their appointment.
+
 #### Prescription Medication 
-Doctors can prescribe medication to patients, which can be viewed by patients in their profile.
+Doctors can prescribe medication to patients, which can be viewed by patients in their profiles.
+
 #### Payment 
 Patients can pay for appointments and medication through the app using a credit card.
 
 ## Technologies Used
-- Django Rest Framework
-- React Native
-- MySQL
-- CSS
+- Django Rest Framework (Backend API)
+- React Native (Client-Side)
+- MySQL (Database)
+- CSS (styling and design)
 
 ## Installation and Usage
-- Install the app in your android phone from from play store remember to give a review.  
+- After cloning/downloading the app, run `npm install` to install the dependencies required for the app to run.
+- Install the app on your Android phone from the play store remember to give a review.  
 
 ## Future Work
 - Implement more robust payment processing using a third-party service.
 - Efficient appointment booking for the patient.
 - Implement chat functionality for patients and doctors to communicate outside of appointments.
 - Allow patients to rate and provide feedback on doctors after appointments.
-- Implement Daraja api as a payment gateway.
-- Implement a more advance emergency system to improve the efficiency.
+- Implement Daraja API as a payment gateway.
+- Implement a more advanced emergency system to improve efficiency.
