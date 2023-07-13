@@ -13,14 +13,14 @@ Patients can:-
   
 #### Doctor Registration and Login 
 Doctors can:- 
-- Create an account 
+- Create an account. 
 - Log in to your respective account.
 - View their profile.
 
 #### Appointment Scheduling 
 Patients can:- 
-- View a list of available doctors 
-- Select a Doctor 
+- View a list of available doctors. 
+- Select a Doctor. 
 - Schedule an appointment with the selected doctor.
 
 #### Video Consultation 
@@ -46,7 +46,7 @@ Patients can pay for appointments and medication through the app using a credit 
 ## Future Work
 - Implement more robust payment processing using a third-party service.
 - Efficient appointment booking for the patient.
-- Implement chat functionality for patients and doctors to communicate outside of appointments.
+- Implement chat functionalities for patients and doctors to communicate outside of appointments.
 - Allow patients to rate and provide feedback on doctors after appointments.
 - Implement Daraja API as a payment gateway.
 - Implement a more advanced emergency system to improve efficiency.
