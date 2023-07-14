@@ -38,6 +38,7 @@ Patients can pay for appointments and medication through the app using a credit 
 - MySQL (Database)
 - CSS (styling and design)
 - Axios
+- REACT
 
 ## Installation and Usage
 - After cloning/downloading the app, run `npm install` to install the dependencies required for the app to run.
