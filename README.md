@@ -2,7 +2,7 @@
 This is a telemedicine app that allows patients to schedule appointments with doctors, have video consultations, and receive prescription medications. The app has both a backend and a frontend, with the backend built using Django Rest Framework and the frontend built using ASP.NET Razor Pages.
 
 ## Features
-#### Patient Registration and Login 
+<center><h4>Patient Registration and Login</h4></center>
 Patients can:- 
 - Create an account 
 - Log in to their respective accounts
